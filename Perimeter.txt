@@ -1,2 +1,3 @@
 Perimeter Of Rectangle
 P= L+L+W+W
+Length = 5 cm And Width = 2cm
