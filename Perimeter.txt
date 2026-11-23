@@ -11,3 +11,5 @@ POT = 21cm
 
 
 This file talks about perimeter
+
+Shapes include Square,Rectangle and Triangle
