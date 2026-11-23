@@ -6,3 +6,4 @@ P = 14cm
 P = 0.14m
 Perimeter of Triangle = A+A+A
 A= 7 cm
+POT = 21cm
