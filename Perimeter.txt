@@ -4,13 +4,10 @@ Length = 5 cm And Width = 2cm
 Perimeter = 5+5+2+2
 P = 14cm
 P = 0.14m
-<<<<<<< HEAD
 Perimeter of Triangle = A+A+A
 A= 7 cm
 POT = 21cm
-=======
 
 
 
 This file talks about perimeter
->>>>>>> origin/main
